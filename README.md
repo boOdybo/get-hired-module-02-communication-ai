@@ -1,4 +1,13 @@
-# GET HIRED — Module 02 | Interactive AI Tools Presentation
+# GET HIRED — Module 02: MY COMMUNICATION FOUNDATION
+
+[افتح العرض المحدّث](https://boodybo.github.io/get-hired-module-02-communication-ai/) · [فهرس الوحدات 01–15](https://boodybo.github.io/get-hired-module-06-my-digital-presence/modules.html)
+
+النسخة الحالية في `docs/index.html` وتضم 12 شريحة بالصور والحركة وخط Alexandria. حرّر رسالة مريم من خمس جمل. قارن ملاحظات Grammarly مع تحليل نبرة ChatGPT ثم اختر تعديلاتك.
+
+يعمل العرض محليًا عند فتح الملف مباشرة. استخدم الفهرس أو الأسهم للانتقال بين الشرائح.
+
+<details>
+<summary>إرشادات الإصدار السابق وملفاته المساندة</summary>
 
 [فتح العرض التفاعلي](https://boodybo.github.io/get-hired-module-02-communication-ai/)
 
@@ -13,3 +22,5 @@
 - External Grammarly/ChatGPT links require internet and may require accounts.
 - Official PDF: `02. Communication.pdf`, AI TOOLS SESSION, printed page 11.
 - Source spelling is preserved in source mapping; no product features assumed universally available.
+
+</details>
